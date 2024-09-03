@@ -24,7 +24,7 @@ BLUE = Fore.LIGHTBLUE_EX
 BLACK = Fore.LIGHTBLACK_EX
 RESET = Style.RESET_ALL
 
-print(f"{WHITE}~ {RED}Created by{YELLOW} @VritraSecz")
+print(f"{WHITE}~ {RED}Created by{YELLOW} @Devil")
 
 def check_internet_connectivity():
     try:
